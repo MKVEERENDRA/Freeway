@@ -124,7 +124,7 @@ Select the feature and parameter(s):
 
 <sup>2<sup>**Transceive and receive at the same time**</sup></sup>
 
-<h2><strong>8. Uninstall</strong></h2>
+<h2><strong>7. Uninstall</strong></h2>
 
 In case where Freeway doesn't meet the expectations and was installed via pip, the removal process is as easy:
 
@@ -132,12 +132,12 @@ In case where Freeway doesn't meet the expectations and was installed via pip, t
 
 The rename to 3way is done on purpose to 'reserve' the name for the future official pip release as Freeway is taken.
 
-<h2><strong>9. Legal Note</strong></h2>
+<h2><strong>8. Legal Note</strong></h2>
 
 > [!IMPORTANT]
 > Any malicious use of such features should be considered a crime, <br />
 > always assert permission to perform the penetration testing.
 
-<h2><strong>10. License</strong></h2>
+<h2><strong>9. License</strong></h2>
 
 The distribution of Freeway is regulated by the standard MIT license, users can feel free to use, share and contribute to the repository or report bugs.
