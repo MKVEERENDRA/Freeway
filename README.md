@@ -24,8 +24,8 @@ Freeway is a Python scapy-based tool for WiFi penetration that aim to help ethic
 <h2><strong>3. Preparation</strong></h2>
 
 It is **necessary** to have:
-- A network adapter supporting monitor mode and frame injection.
-- An operating system running a Linux distribution.
+- A network adapter supporting monitor mode and frame injection. (tested on wn722n v3 and awus036ac)
+- An operating system running a Linux distribution. (tested on KaliPi, Kali Linux and ParrotOS)
 - Python 3+ installed.
 
 <h6>Optionally, install Scapy and Rich packages for Python if not installing via pip (see Section 4)</h6>
